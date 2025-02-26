@@ -174,3 +174,4 @@
 2025-02-26T10:49:54.000Z | Fix bug in parser
 2025-02-26T13:27:02.000Z | Fix import order
 2025-02-26T10:30:09.000Z | Add export to CSV
+2025-02-26T10:42:44.000Z | Fix linting errors
