@@ -171,3 +171,4 @@
 2025-02-25T15:13:01.000Z | Fix linting errors
 2025-02-25T10:13:50.000Z | Update package version
 2025-02-26T08:57:13.000Z | Add unit tests
+2025-02-26T10:49:54.000Z | Fix bug in parser
