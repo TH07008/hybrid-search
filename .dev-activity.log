@@ -173,3 +173,4 @@
 2025-02-26T08:57:13.000Z | Add unit tests
 2025-02-26T10:49:54.000Z | Fix bug in parser
 2025-02-26T13:27:02.000Z | Fix import order
+2025-02-26T10:30:09.000Z | Add export to CSV
