@@ -191,3 +191,4 @@
 2025-03-06T09:14:47.000Z | Remove deprecated methods
 2025-03-06T11:03:27.000Z | Update CI configuration
 2025-03-06T15:57:03.000Z | Fix date formatting
+2025-03-06T08:25:01.000Z | Add environment variables support
