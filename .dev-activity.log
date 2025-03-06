@@ -188,3 +188,4 @@
 2025-03-05T08:10:10.000Z | Fix memory leak in cache
 2025-03-05T11:28:14.000Z | Optimise rendering performance
 2025-03-05T12:59:53.000Z | Increase test coverage
+2025-03-06T09:14:47.000Z | Remove deprecated methods
