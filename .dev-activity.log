@@ -234,3 +234,4 @@
 2025-03-27T10:31:57.000Z | Fix race condition
 2025-03-27T12:02:19.000Z | Simplify conditional logic
 2025-03-27T16:54:42.000Z | Add .gitignore
+2025-03-27T13:18:58.000Z | Remove deprecated methods
