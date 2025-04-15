@@ -263,3 +263,4 @@
 2025-04-15T11:13:22.000Z | Remove deprecated methods
 2025-04-15T12:00:22.000Z | Update translations
 2025-04-15T12:35:59.000Z | Fix form validation bug
+2025-04-15T16:15:39.000Z | Fix race condition
