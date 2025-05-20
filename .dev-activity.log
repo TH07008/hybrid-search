@@ -311,3 +311,4 @@
 2025-05-17T12:28:21.000Z | Add loading spinner
 2025-05-18T15:46:45.000Z | Refactor utility functions
 2025-05-19T13:36:08.000Z | Fix failing test case
+2025-05-20T08:38:07.000Z | Add export to CSV
