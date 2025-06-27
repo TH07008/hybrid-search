@@ -379,3 +379,4 @@
 2025-06-26T09:06:29.000Z | Fix broken links in docs
 2025-06-26T07:54:31.000Z | Bump version
 2025-06-27T10:47:19.000Z | Increase test coverage
+2025-06-27T10:01:55.000Z | Add environment variables support
