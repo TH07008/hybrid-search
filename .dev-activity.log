@@ -496,3 +496,4 @@
 2025-09-06T15:04:35.000Z | Fix broken links in docs
 2025-09-08T08:30:08.000Z | Update Dockerfile
 2025-09-08T16:02:39.000Z | Increase test coverage
+2025-09-11T08:15:38.000Z | Add export to CSV
