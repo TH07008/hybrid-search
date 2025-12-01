@@ -619,3 +619,4 @@
 2025-11-27T13:56:06.000Z | Remove deprecated methods
 2025-11-27T10:51:22.000Z | Add environment variables support
 2025-11-29T12:39:21.000Z | Update CI configuration
+2025-12-01T09:01:29.000Z | Fix broken API endpoint
