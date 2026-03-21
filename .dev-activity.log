@@ -796,3 +796,4 @@
 2026-03-20T15:17:04.000Z | Add .gitignore
 2026-03-20T17:57:50.000Z | Update README.md
 2026-03-20T13:09:13.000Z | Fix date formatting
+2026-03-21T14:21:39.000Z | Add environment variables support
