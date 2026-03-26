@@ -810,3 +810,4 @@
 2026-03-25T15:19:09.000Z | Fix form validation bug
 2026-03-26T12:32:29.000Z | Fix form validation bug
 2026-03-26T12:01:30.000Z | Add tooltip component
+2026-03-26T15:33:13.000Z | Fix broken API endpoint
