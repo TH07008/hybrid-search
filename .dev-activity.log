@@ -999,3 +999,4 @@
 2026-07-10T11:17:35.000Z | Fix bug in parser
 2026-07-11T09:20:17.000Z | Add environment variables support
 2026-07-12T10:23:35.000Z | Improve mobile responsiveness
+2026-07-13T12:39:56.000Z | Improve error handling
