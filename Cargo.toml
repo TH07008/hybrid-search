@@ -1,0 +1,42 @@
+[package]
+name = "hybrid-search"
+version = "0.1.0"
+edition = "2021"
+authors = ["RAG Tools"]
+license = "MIT"
+description = "Hybrid search index combining BM25 keyword search (tantivy) with vector semantic search (nalgebra), fused via Reciprocal Rank Fusion."
+repository = "https://example.com/hybrid-search"
+keywords = ["search", "rag", "bm25", "vector", "hybrid"]
+categories = ["command-line-utilities", "library", "text-processing"]
+
+[lib]
+name = "hybrid_search"
+path = "src/lib.rs"
+
+[[bin]]
+name = "hybrid-search"
+path = "src/main.rs"
+
+[dependencies]
+# Full-text search engine (BM25)
+tantivy = "0.22"
+# Linear algebra for vector search
+nalgebra = "0.33"
+# CLI argument parsing
+clap = { version = "4.5", features = ["derive"] }
+# Serialization for index I/O and JSONL input
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+# Error handling
+anyhow = "1"
+thiserror = "1"
+# Tracing
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+# Fast hashing for demo embeddings
+fxhash = "0.2"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
